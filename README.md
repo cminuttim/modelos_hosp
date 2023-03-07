@@ -59,5 +59,6 @@ Ejecutar `riesgo-gen-models-GRP.py` para la generación de modelos predictivos d
 
 [cont_loc_mean.csv](cont_loc_mean.csv): Archivo generado por los autores, con las concentraciones medias de exposición a contaminantes atmosféricos por localidad, durante el periodo 2005-2020, generadas por Kriging y QGIS.
 
-[scale_cont_fa](scale_cont_fa): Mínimos y máximos para reescalar las variables utilizadas para los indicadores de contaminantes (ver [cont_factors](https://github.com/cminuttim/cont_factors/)).
+[scale_cont_fa.csv](scale_cont_fa.csv): Mínimos y máximos para reescalar las variables utilizadas para los indicadores de contaminantes (ver [cont_factors](https://github.com/cminuttim/cont_factors/)).
+
 
