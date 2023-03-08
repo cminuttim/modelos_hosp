@@ -61,4 +61,6 @@ Ejecutar `riesgo-gen-models-GRP.py` para la generación de modelos predictivos d
 
 [scale_cont_fa.csv](scale_cont_fa.csv): Mínimos y máximos para reescalar las variables utilizadas para los indicadores de contaminantes (ver [cont_factors](https://github.com/cminuttim/cont_factors/)).
 
+## Trabajos relacionados
 
+C. Minutti-Martinez, A. Galindo, L. F. Valdez-Garduño and M. F. Mata-Rivera, "**Exploring nonlinear effects of air pollution on hospital admissions by disease using gradient boosting machines,**" 2022 19th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2022, pp. 1-6, doi: [10.1109/CCE56709.2022.9976027](https://ieeexplore.ieee.org/document/9976027).
