@@ -65,15 +65,17 @@ Ejecutar `riesgo-gen-models-GRP.py` para la generación de modelos predictivos d
 
 C. Minutti-Martinez, A. Galindo, L. F. Valdez-Garduño and M. F. Mata-Rivera, "**Exploring nonlinear effects of air pollution on hospital admissions by disease using gradient boosting machines**," 2022 19th International Conference on Electrical Engineering, Computing Science and Automatic Control (CCE), Mexico City, Mexico, 2022, pp. 1-6, doi: [10.1109/CCE56709.2022.9976027](https://ieeexplore.ieee.org/document/9976027).
 
-## Citar
 
+## Cita
+
+Por favor, cite el repositorio si utiliza los datos o el código de este repositorio.
 ```bibtex
-@software{modelos_hosp,
-  title = {{Generación automatizada de modelos predictivos del número y severidad de las hospitalizaciones por enfermedades y categorías de enfermedades}},
+@misc{modelos_hosp,
   author = {Carlos Minutti},
-  url = {https://github.com/cminuttim/modelos_hosp/},
-  month = {3},
+  title = {Generación automatizada de modelos predictivos del número y severidad de las hospitalizaciones por enfermedades y categorías de enfermedades},
   year = {2023},
-  version = {0.1},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/cminuttim/modelos_hosp}},
 }
 ```
